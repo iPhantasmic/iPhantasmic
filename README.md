@@ -9,11 +9,10 @@ i'm [iPhantasmic](https://iphantasmic.com)!
 
 ## current goals
 
-### OSWE
+### OSCE3
 
-preparing for the OSWE certification
-
-- 10 July 2023: started on course
+- 10 July 2023: started on OSWE
+- 23 October 2023: started on OSWP
 
 
 ### big bad C2 framework
