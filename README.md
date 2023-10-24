@@ -22,6 +22,12 @@ contemplating the design of a scalable, modular and multi-platform C2 framework 
 - TBD
 
 
+### request
+
+a Golang HTTP request library for exploit development
+
+- 24 October 2023: repository created based on OSWE code
+
 <!--
 **iPhantasmic/iPhantasmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
