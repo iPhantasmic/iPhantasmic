@@ -12,6 +12,7 @@ i'm [iPhantasmic](https://iphantasmic.com)!
 ### OSCE3
 
 - 10 July 2023: started on OSWE
+- 19 October 2023: OSWE certified
 - 23 October 2023: started on OSWP
 
 
@@ -22,7 +23,7 @@ contemplating the design of a scalable, modular and multi-platform C2 framework 
 - TBD
 
 
-### request
+### [requestr](https://github.com/iPhantasmic/requestr)
 
 a Golang HTTP request library for exploit development
 
