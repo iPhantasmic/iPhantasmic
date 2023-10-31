@@ -2,7 +2,7 @@
 i'm [iPhantasmic](https://iphantasmic.com)! 
 
 - i like to poke stuff (a.k.a. Penetration Testing) 👈
-- i have learnt to poke some stuff (OSCP, CRTP, GXPN) 👈
+- i have learnt to poke some stuff (OSCP, OSWE, OSWP, CRTP, GXPN) 👈
 - i am still learning to poke other stuff (OSCE3 soon...) 👈
 - i also like to write code to help others poke stuff 👈
 
@@ -14,6 +14,8 @@ i'm [iPhantasmic](https://iphantasmic.com)!
 - 10 July 2023: started on OSWE
 - 19 October 2023: OSWE certified
 - 23 October 2023: started on OSWP
+- 29 October 2023: OSWP certified
+- 30 October 2023: started on OSEP
 
 
 ### big bad C2 framework
