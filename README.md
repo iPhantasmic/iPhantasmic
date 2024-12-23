@@ -16,6 +16,7 @@ i'm [iPhantasmic](https://iphantasmic.com)!
 - 23 October 2023: started on OSWP
 - 29 October 2023: OSWP certified
 - 30 October 2023: started on OSEP
+- 30 April 2024: OSEP certified
 
 
 ### big bad C2 framework
